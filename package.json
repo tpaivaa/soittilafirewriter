@@ -1,0 +1,20 @@
+{
+  "name": "soittilafirewriter",
+  "version": "0.0.1",
+  "description": "Writes temps to Firebase cloud database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Soittila",
+    "firebase",
+    "writer"
+  ],
+  "author": "Tpaivaa (tpaivaa@gmail.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tpaivaa/soittilafirewriter.git"
+  }
+}
